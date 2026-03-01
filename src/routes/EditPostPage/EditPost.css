@@ -1,0 +1,4 @@
+.edit-post #body {
+    overflow: auto;
+    resize: vertical;
+}
